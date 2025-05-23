@@ -13,9 +13,9 @@ This repository is a portfolio that organizes my participation in Kaggle competi
 | Competition | Goal | Evalutaion | prize |
 |----------|-----------|-----------|------|
 | [Predict Calorie Expenditure](https://www.kaggle.com/competitions/playground-series-s5e5) | Predict the calorie expenditure(regression) | RMSLE |  |
+\n\n
 
-
-##1. Predict Calorie Expenditure
+## 1. Predict Calorie Expenditure
 - Dataset
 - EDA
 - Feature Engineering

@@ -1,9 +1,5 @@
 # Kaggle Projects Portfolio :rocket:
 
-![Python](https://img.shields.io/badge/python-3.8-blue)
-![PyTorch](https://img.shields.io/badge/pytorch-2.0-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ## Introduction :memo:
 This repository is a portfolio that organizes my participation in Kaggle competitions.
 
